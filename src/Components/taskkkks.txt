@@ -1,0 +1,10 @@
+1 ) add react icons like deleting a card and show modal or something >>
+//npm react-icons and then add the functionality to delete a card .. and a bar of how well user did that >>
+
+sub points that are checkable and the "already Done" bar is set according the numbers of checked points in there >>
+
+provide a functionality to enter a particular card and where there is buuton saying make points .. to get it easier 
+
+and anytime the user can get in and revisit waht is done and not 
+
+untill 12 pm
